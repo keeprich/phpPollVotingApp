@@ -10,9 +10,10 @@ body {
     margin: 0;
 }
 .navtop {
-    background-color: #3f69a8;
+    background-color: #f75050;
     height: 60px;
     width: 100%;
+    box-shadow: 3px 4px 2px silver;
     border: 0;
 }
 .navtop div {
@@ -92,7 +93,9 @@ body {
     background-color: #fbfcfc;
 }
 .home table tbody tr:hover {
-    background-color: #376ab7;
+    background-color: #f75050;
+
+    /* background-color: #376ab7; */
 }
 .home table tbody tr:hover td {
     color: #FFFFFF;
